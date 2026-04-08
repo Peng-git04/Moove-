@@ -75,6 +75,52 @@ Main file that:
 
 ---
 
+## 🚀 Installation and Setup
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/your-username/moove-micromobility.git
+```
+
+---
+
+### 2️⃣ Enter the project folder
+
+```bash
+cd moove-micromobility
+```
+
+---
+
+### 3️⃣ Install dependencies
+
+```bash
+npm install
+```
+
+---
+
+### 4️⃣ Compile TypeScript
+
+```bash
+npx tsc
+```
+
+or
+
+```bash
+npm run build
+```
+
+---
+
+### 5️⃣ Run the project
+
+```bash
+node dist/index.js
+```
+
 ## ⚙️ Technologies Used
 
 * TypeScript
